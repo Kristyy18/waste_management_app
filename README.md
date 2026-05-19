@@ -1,4 +1,5 @@
 # waste_management_app
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Flutter Waste Management App
+>>>>>>> f80baa126769761ca2a0f7c6550de638006fd4ed
